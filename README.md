@@ -36,7 +36,7 @@ make sure to replace `<package name>` with actual package name, like:
 In this project I wanted to practice data manipulations as well as to explore ML
 functionalities of PySpark library. To do that I've chosen Sparkify Project from
 Udacity Nanodegree in Data Science. The project would require me to predict user
-churn from a fictional company name Sparkify. Here are the key steps of this project
+churn from a fictional company called Sparkify. Here are the key steps of this project
 
 Also I wanted to compare how does Decision Tree performs against Logistic regression
 performs for the churn prediction with the base for comparison would be precision.
@@ -58,7 +58,7 @@ need to unpack and save it in the project root folder.
 
 ## Results
 
-Please check my [Medium post - Use the power of Machine Learning to predict AirBnB prices in Seattle](https://medium.com/@oleksandr_49102/use-the-power-of-machine-learning-to-predict-airbnb-prices-in-seattle-bc9a781fd370) for full discussion of the project.
+Please check my [Medium post - Predicting user churn with PySpark](https://medium.com/@oleksandr_49102/predicting-user-churn-with-pyspark-4bdbed544cfc) for full discussion of the project.
 
 Here is the quick summary of what we've found in this project:
 
